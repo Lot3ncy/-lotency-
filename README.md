@@ -1,3 +1,0 @@
-# -lotency-
-APRENDENDO.
-HTML, CSS, JAVASCRIP, SQL, NODE ...
